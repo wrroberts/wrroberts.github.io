@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            wade roberts
@@ -17,9 +16,6 @@ author:
   url:            https://twitter.com/wwaaaddddeee
 
 # paginate:         5
-
-# Custom vars
-# version:          2.1.0
 
 github:
   repo:           https://github.com/wrroberts/wrroberts.github.io
