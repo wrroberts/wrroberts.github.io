@@ -4,23 +4,21 @@ pygments:      true
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            wade roberts
+tagline:          'PhD Candidate'
+description:      'Ph.D. Candidate at Washington State University <a href="http://twitter.com/wwaaaddddeee" target=_blank">@wwaaaddddeee</a>'
+url:              http://wrroberts.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Wade Roberts'
+  url:            https://twitter.com/wwaaaddddeee
 
-paginate:         5
+# paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/wrroberts/wrroberts.github.io
