@@ -1,3 +1,5 @@
+---
+---
 /*
 	Strata by HTML5 UP
 	html5up.net | @ajlkn
@@ -57,7 +59,7 @@
 /* Header */
 
 	#header {
-		background-image: url("../../images/bg.jpg");
+		background-image: url("../../{{ site.theme-cfg.background }}");
 		background-repeat: no-repeat;
 		background-size: cover;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");

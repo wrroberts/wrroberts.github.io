@@ -12,6 +12,10 @@ description:      'Botanist and Ph.D. Candidate at<br>Washington State Universit
 url:              http://achimen.es
 copyright-year:   2017
 
+theme-cfg:
+  avatar:         images/avatar.jpg
+  background:     images/bg.jpg
+
 author:
   name:           'Wade R. Roberts'
   twitter:        https://twitter.com/wwaaaddddeee
