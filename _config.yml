@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-rouge:         true
+rouge:            true
 
 # Permalinks
 permalink:        pretty
@@ -8,13 +8,14 @@ permalink:        pretty
 # Setup
 title:            Wade R. Roberts
 tagline:          'Evolutionary Genomics'
-description:      'Botanist and Ph.D. Candidate at<br>Washington State University'
+description:      'Botanist and Ph.D. Candidate'
+institution:      'Washington State University'
 url:              http://achimen.es
-copyright-year:   2017
+copyright-year:   2018
 
 theme-cfg:
-  avatar:         images/avatar.jpg
-  background:     images/bg.jpg
+  avatar:         /images/avatar.jpg
+  background:     /images/bg.jpg
 
 author:
   name:           'Wade R. Roberts'
@@ -25,6 +26,7 @@ author:
   scholar:        https://scholar.google.com/citations?user=FRciU2oAAAAJ
 # dribbble:       https://twitter.com/wwaaaddddeee
   email:          wade@achimen.es
+# email:          dr.roberts@achimen.es
 
 # paginate:         5
 
