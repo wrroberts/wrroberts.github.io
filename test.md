@@ -65,12 +65,3 @@ Or to leave text out completely:
 
 {% include work_gallery.html columns=1 datafile=site.data.test_gallery_imgonly %}
 
-{% include section.html id=contactbox header="Get in Touch" %}
-
-Use this form to drop me a line, or contact me using more traditional methods.
-
-{% include contact_box.html %}
-
-**Note** that there is nothing preventing us from putting this in the footer, or from creating a page solely for the contact box.  To turn off contact methods, simply comment them out in the config yaml file.
-
-#### Big TODO item: hook the submit button up using https://smtpjs.com/
