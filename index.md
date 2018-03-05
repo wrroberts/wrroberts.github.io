@@ -4,7 +4,7 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am an evolutionary biologist, working in the [Roalson Lab](http://roalsonlab.weebly.com) at [Washington State University](http://www.wsu.edu) in the [School of Biological Sciences](http://www.sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](http://www.mps.wsu.edu). I combine bioinformatics, computational biology, genomics, and phylogenetics to understand patterns of biological diversification and the evolutionary and ecological processes that generate them.
+I am an evolutionary biologist, working in the [Roalson Lab](http://roalsonlab.weebly.com) at [Washington State University](http://www.wsu.edu) in the [School of Biological Sciences](http://www.sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](http://www.mps.wsu.edu). I combine bioinformatics, genomics, and phylogenetics to understand patterns of biological diversification and the evolutionary and ecological processes that generate them.
 
 {% include section.html header="Research" %}
 
@@ -14,9 +14,11 @@ My work aims to understand the evolution of floral diversity, particularly in th
 
 {% include section.html header="Publications" %}
 
-**Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). BMC Genomics. Accepted.
+**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_, Gesneriaceae). American Journal of Botany in Press.
 
-Roalson E.H., **Roberts W.R.** 2016. Distinct Processes Drive Diversification in Different Clades of Gesneriaceae. Systematic Biology 64 (40): 662-684. [[doi]](http://sysbio.oxfordjournals.org/content/early/2016/02/14/sysbio.syw012.abstract) [[cover image]](http://sysbio.oxfordjournals.org/content/65/4.cover-expansion)
+**Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). BMC Genomics 18: 240 [[doi]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3623-8)
+
+Roalson E.H., **Roberts W.R.** 2016. Distinct Processes Drive Diversification in Different Clades of Gesneriaceae. Systematic Biology 64: 662-684. [[doi]](https://academic.oup.com/sysbio/article/65/4/662/1753444) [[cover image]](http://sysbio.oxfordjournals.org/content/65/4.cover-expansion)
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
