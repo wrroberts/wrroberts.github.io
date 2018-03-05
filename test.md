@@ -1,6 +1,6 @@
 ---
 layout: default
-header: This is the header variable
+title: This is the header variable
 
 g1_images:
   - 01.jpg
