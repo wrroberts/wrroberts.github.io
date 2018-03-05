@@ -6,7 +6,7 @@ title: Wade R. Roberts
 
 I am an evolutionary biologist, working in the [Roalson Lab](http://roalsonlab.weebly.com) at [Washington State University](http://www.wsu.edu) in the [School of Biological Sciences](http://www.sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](http://www.mps.wsu.edu). I combine bioinformatics, genomics, and phylogenetics to understand patterns of biological diversification and the evolutionary and ecological processes that generate them.
 
-{% include buttom.html label="CV" %}
+{% include button.html label="CV" %}
 
 {% include section.html header="Research" %}
 
