@@ -1,0 +1,10 @@
+prefix:
+  thumbnail: /images/thumbs/
+  fullsize: /images/fulls/
+
+images:
+  - img: 04.jpg
+    alt: Ultricies lacinia interdum
+
+  - img: 02.jpg
+    alt: Tortor metus commodo

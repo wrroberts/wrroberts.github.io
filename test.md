@@ -1,30 +1,6 @@
 ---
 layout: default
 title: This is the header variable
-
-g1_images:
-  - 01.jpg
-  - 02.jpg
-  - 03.jpg
-  - 04.jpg
-  - 05.jpg
-  - 06.jpg
-
-g1_titles:
-  - "Magna sed consequat tempus"
-  - "Ultricies lacinia interdum"
-  - "Tortor metus commodo"
-  - "Quam neque phasellus"
-  - "Nunc enim commodo aliquet"
-  - "Risus ornare lacinia"
-
-g1_descriptions:
-  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
-  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
-  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
-  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
-  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
-  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
 ---
 {% include section.html id=one header="This is the subheading / first section of the page" %}
 
@@ -75,9 +51,19 @@ There are other interesting site elements that can be added, too.
 
 {% include section.html id=workgallery header="Recent Work" %}
 
-{% include work_gallery.html fullsize_pfx="/images/fulls/" thumbs_pfx="/images/thumbs/" images=page.g1_images titles=page.g1_titles descriptions=page.g1_descriptions %}
+{% include work_gallery.html datafile=site.data.test_gallery %}
 
-{% include button.html link="#" label="Full Portfolio" %}
+It's also possible to customize the number of columns for the images:
+
+{% include work_gallery.html columns=3 datafile=site.data.test_gallery %}
+
+Or to omit descriptions in the data file:
+
+{% include work_gallery.html datafile=site.data.test_gallery_titles %}
+
+Or to leave text out completely:
+
+{% include work_gallery.html columns=1 datafile=site.data.test_gallery_imgonly %}
 
 {% include section.html id=contactbox header="Get in Touch" %}
 
