@@ -1,0 +1,16 @@
+prefix:
+  thumbnail: /images/thumbs/
+  fullsize: /images/fulls/
+
+images:
+  - img: 02.jpg
+    title: Ultricies lacinia interdum
+
+  - img: 03.jpg
+    title: Tortor metus commodo
+
+  - img: 05.jpg
+    title: Nunc enim commodo aliquet
+
+  - img: 06.jpg
+    title: Risus ornare lacinia

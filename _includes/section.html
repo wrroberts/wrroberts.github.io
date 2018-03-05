@@ -1,0 +1,27 @@
+{% if page.ismarkdown == null %}
+  {% assign ext = page.path | split: "." | last %}
+  {% if ext == "md" or page.ext == "markdown" %}
+    {% assign ismarkdown = true %}
+  {% else %}
+    {% assign ismarkdown = false %}
+  {% endif %}
+{% endif %}
+
+{% if first_section_done == true %}
+{% if ismarkdown == true %}
+</div>
+{% endif %}
+</section>
+{% if include.noline == null %}
+<hr />
+{% endif %}
+{% endif %}
+<section id="{{ include.id }}">
+{% if include.header != null %}
+<h2>{{ include.header }}</h2>
+{% endif %}
+{% if ismarkdown == true %}
+<div markdown="1">
+{% endif %}
+
+{% assign first_section_done = true %}

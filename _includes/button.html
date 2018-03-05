@@ -1,0 +1,7 @@
+<ul class="actions">
+{% if include.icon == null %}
+<li><a href="{{ include.link }}" class="button">{{ include.label }}</a></li>
+{% else %}
+<li><a href="{{ include.link }}" class="button icon {{ include.icon }}">{{ include.label }}</a></li>
+{% endif %}
+</ul>
