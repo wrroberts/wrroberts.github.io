@@ -8,7 +8,7 @@ I am an evolutionary biologist, working in the [Roalson Lab](http://roalsonlab.w
 
 {% include section.html header="Research" %}
 
-My work aims to understand the evolution of floral diversity, particularly in the African violet family Gesneriaceae. Understanding the genetic mechanisms that produce diversity is one of the central goals of evolutionary biology. Flowers, with their vast array of shapes and colors, represent one of the most amazing and visible products of evolution. Floral biology can be studied through both an adaptive perspective, particulary as a function of reproductive biology and pollination, or a genetic perspective, particularly molecular analyses of developmental and biochemical pathways. I aim to understand the diversification of floral form using comparative genomics, phylogenetics, and developmental genetics.
+Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversfication, using comparative transcriptomics and phylogenomics to understand the evolution of floral form in the Gesneriaceae.
 
 {% include button.html label="Details" link="/research" %}
 
