@@ -16,6 +16,10 @@ Understanding diversification at the macro- and microevolutionary scales has lon
 
 {% include section.html header="Publications" %}
 
+**Roberts W.R.**, Roalson E.H. In Prep. Gene co-expression network connectivity is an important determinant of selective constraint during flower development in the magic flowers (_Achimenes_, Gesneriaceae).
+
+**Roberts W.R.**, Crabb J., Dhingra A., Roalson E.H. In Prep. Micropropagation and _Agrobacterium_-mediated genetic transformation of _Achimenes erecta_ (Gesneriaceae).
+
 **Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_, Gesneriaceae). American Journal of Botany in Press.
 
 **Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). BMC Genomics 18: 240 [[doi]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3623-8)
