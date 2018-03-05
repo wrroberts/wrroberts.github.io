@@ -1,5 +1,9 @@
 <head>
+	{% if site.title != page.title %}
 	<title>{{ site.title }} - {{ page.title }}</title>
+	{% else %}
+	<title>{{ site.title }}</title>
+	{% endif %}
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
