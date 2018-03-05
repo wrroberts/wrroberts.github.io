@@ -12,7 +12,9 @@
 </div>
 {% endif %}
 </section>
+{% if include.noline == null %}
 <hr />
+{% endif %}
 {% endif %}
 <section id="{{ include.id }}">
 {% if include.header != null %}

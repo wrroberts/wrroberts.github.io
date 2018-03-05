@@ -1,0 +1,15 @@
+<gallery>
+<div class="row">
+{% for img in include.images %}
+{% assign title=include.titles[forloop.index0] %}
+{% assign description=include.descriptions[forloop.index0] %}
+	<article class="6u 12u$(xsmall) work-item">
+		<a href="{{ include.fullsize_pfx }}{{ img }}" class="image fit thumb">
+			<img src="{{ include.thumbs_pfx }}{{ img }}" alt="{{ title }}: {{ description }}" />
+		</a>
+		<h3>{{ title }}</h3>
+		<p>{{ description }}</p>
+	</article>
+{% endfor %}
+</div>
+</gallery>

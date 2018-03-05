@@ -1,6 +1,30 @@
 ---
 layout: default
 header: This is the header variable
+
+g1_images:
+  - 01.jpg
+  - 02.jpg
+  - 03.jpg
+  - 04.jpg
+  - 05.jpg
+  - 06.jpg
+
+g1_titles:
+  - "Magna sed consequat tempus"
+  - "Ultricies lacinia interdum"
+  - "Tortor metus commodo"
+  - "Quam neque phasellus"
+  - "Nunc enim commodo aliquet"
+  - "Risus ornare lacinia"
+
+g1_descriptions:
+  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
+  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
+  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
+  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
+  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
+  - "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
 ---
 {% include section.html id=one header="This is the subheading / first section of the page" %}
 
@@ -29,7 +53,7 @@ even YouTube:
 
 ## Markdown headings can be used, but don't generate a new section
 
-And general *markdown* _formatting_ ~~applies~~!
+And general **markdown** _formatting_ ~~applies~~!
 
 ### Including the smaller headings
 
@@ -42,3 +66,25 @@ Just like that.
 Sections can also forego the headings, if desired:
 
 {% include section.html id=three %}
+
+Or the line:
+
+{% include section.html id=four header="See, ma!  No line!" noline=true %}
+
+There are other interesting site elements that can be added, too.
+
+{% include section.html id=workgallery header="Recent Work" %}
+
+{% include work_gallery.html fullsize_pfx="/images/fulls/" thumbs_pfx="/images/thumbs/" images=page.g1_images titles=page.g1_titles descriptions=page.g1_descriptions %}
+
+{% include button.html link="#" label="Full Portfolio" %}
+
+{% include section.html id=contactbox header="Get in Touch" %}
+
+Use this form to drop me a line, or contact me using more traditional methods.
+
+{% include contact_box.html %}
+
+**Note** that there is nothing preventing us from putting this in the footer, or from creating a page solely for the contact box.  To turn off contact methods, simply comment them out in the config yaml file.
+
+#### Big TODO item: hook the submit button up using https://smtpjs.com/
