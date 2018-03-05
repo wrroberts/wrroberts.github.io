@@ -4,13 +4,13 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am an evolutionary biologist, working in the [Roalson Lab](http://roalsonlab.weebly.com) at [Washington State University](http://www.wsu.edu) in the [School of Biological Sciences](http://www.sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](http://www.mps.wsu.edu). I combine bioinformatics, genomics, and phylogenetics to understand patterns of biological diversification and the evolutionary and ecological processes that generate them.
+I am currently a graduate student in the [Roalson Lab](http://roalsonlab.weebly.com) at [Washington State University](http://www.wsu.edu) in the [School of Biological Sciences](http://www.sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](http://www.mps.wsu.edu). I combine bioinformatics, genomics, and phylogenetics to understand patterns of biological diversification and the evolutionary and ecological processes that generate them. Soon I will be a postdoctoral fellow at the University of Arkansas with Andrew Alverson to work on diversification in diatoms.
 
 {% include button.html label="CV" %}
 
 {% include section.html header="Research" %}
 
-Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversfication. I use comparative genomics and phylogenomics to investigate how underlying genetic networks have evolved under natural selection to produce diverse phenotypes. I am particularly interested in the evolution of floral form in the genus _Achimenes_ (Gesneriaceae), a colorful and diverse genus native to Mexico and Central America.
+As an evolutionary biologist, I am fascinated by the enormous diversity of plant forms and flower morphology. Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversfication. I combine comparative genomics, phylogenomics, and developmental biology to investigate how underlying genetic networks and pathways have evolved under natural selection to produce diverse phenotypes. I am particularly interested in the evolution of floral form in the genus _Achimenes_ (Gesneriaceae), a colorful and diverse genus native to Mexico and Central America.
 
 {% include button.html label="Details" link="/research" %}
 
