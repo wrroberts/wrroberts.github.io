@@ -4,7 +4,7 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am currently a graduate student in the [Roalson Lab](http://roalsonlab.weebly.com) at [Washington State University](http://www.wsu.edu) in the [School of Biological Sciences](http://www.sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](http://www.mps.wsu.edu). Soon I will be a postdoctoral fellow at the University of Arkansas with Andrew Alverson, working on ecological and evolutionary genomics in diatoms.
+I am currently a graduate student in the [Roalson Lab](https://roalsonlab.weebly.com) at [Washington State University](https://wsu.edu) in the [School of Biological Sciences](https://sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](https://mps.wsu.edu). Soon I will be a postdoctoral fellow at the University of Arkansas with Andrew Alverson, working on ecological and evolutionary genomics in diatoms.
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
