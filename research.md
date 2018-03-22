@@ -14,6 +14,8 @@ I have taken multiple strategies to begin understanding flower diversification i
 
 Gesneriaceae (African violet family) represents a large lineage (>3500 species) with an enormous amount of diversity, particularly in floral form and growth form. The family is known for its diverse flowers that are visited by a number of different pollinators, as well as containing a high number of epiphytes, lithophytes, and unifoliate plants. Constructing the largest dated phylogeny for gesneriads (nearly a quarter of species) and inferring divergence times has allowed us to test hypotheses related to the affect of geography, floral traits, epiphytism, and growth form on diversification [(Roalson and Roberts 2016)](http://sysbio.oxfordjournals.org/content/65/4/662). Our analyses provide evidence for distinct patterns of evolution across different lineages in the Gesneriaceae. Floral form, pollination syndrome, and epiphytism appear to be important drivers of diversification in the New World subfamily Gesnerioideae, while growth form appears to be important in the Old World subfamily Didymocarpoideae.
 
+<img src="/images/Fig4.png" width="40%" height="40%"/>
+
 {% include section.html header="Developmental genetics in <em>Achimenes</em>" %}
 
 In order to test the functional role of genes in planta, it is useful to have an efficient regeneration and transformation system. We have developed an successful micropropagation and *Agrobacterium*-mediated transformation for *Achimenes erecta* (Roberts et al., in prep). The ability to efficiently transform plant species with high success will be useful to develop *Achimenes* into a model for evolutionary-developmental studies. 
