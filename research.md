@@ -8,7 +8,7 @@ Using comparative genomics in a evolutionary-developmental context allows us to 
 
 I have taken multiple strategies to begin understanding flower diversification in _Achimenes_. First, comparing gene expression within and between species has revealed complex patterns in several pathways that correspond to the different floral forms ([Roberts and Roalson 2017](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3623-8)). Second, phylogenomic analyses of gene flow and introgression have found widespread phylogenetic discordance and specific cases of introgression occurring between sympatric species pairs that share pollinators (Roberts and Roalson, in Press). Third, examination of co-expression networks has found a strong association between gene connectivity and selective constraint (Roberts and Roalson, in Prep). 
 
-<img src="/images/Figure3.png" width="40%" height="40%"/>
+<img src="/images/Figure3.png" width="50%" height="50%"/> <img src="/images/lightcyan1-D-DE.png" width="40%" height="40%"/>
 
 {% include section.html header="Macroevolution of Gesneriaceae" %}
 
