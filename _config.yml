@@ -6,7 +6,7 @@ rouge:            true
 permalink:        pretty
 
 # Setup
-title:            Wade R. Roberts, Ph.D
+title:            Wade R. Roberts
 tagline:          'Evolutionary Genomics'
 description:      'Botanist'
 institution:      'Washington State University'
@@ -18,7 +18,7 @@ theme-cfg:
   background:     /images/pedunculata.jpg
 
 author:
-  name:           'Wade R. Roberts'
+  name:           'Wade R. Roberts, Ph.D'
   twitter:        https://twitter.com/wwaaaddddeee
 # facebook:       https://twitter.com/wwaaaddddeee
 # instagram:      https://twitter.com/wwaaaddddeee
