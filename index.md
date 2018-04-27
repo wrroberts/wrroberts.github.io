@@ -20,11 +20,11 @@ As a botanist and evolutionary biologist, I am fascinated by the enormous divers
 
 **Roberts W.R.**, Crabb J., Dhingra A., Roalson E.H. In Prep. Micropropagation and _Agrobacterium_-mediated genetic transformation of _Achimenes erecta_ (Gesneriaceae).
 
-**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_, Gesneriaceae). _American Journal of Botany_ in Press.
+**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_, Gesneriaceae). _American Journal of Botany_ 105(4): 1-15. [[doi]](https://doi.org/10.1002/ajb2.1058)
 
-**Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ 18: 240 [[doi]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3623-8)
+**Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ 18: 240. [[doi]](https://doi.org/10.1186/s12864-017-3623-8)
 
-Roalson E.H., **Roberts W.R.** 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ 64: 662-684. [[doi]](https://academic.oup.com/sysbio/article/65/4/662/1753444) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138)
+Roalson E.H., **Roberts W.R.** 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ 65(4): 662-684. [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138)
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
