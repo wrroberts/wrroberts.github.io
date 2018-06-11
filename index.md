@@ -10,15 +10,11 @@ I currently work in the [Roalson Lab](https://roalsonlab.weebly.com) at [Washing
 
 {% include section.html header="Research" %}
 
-As a botanist and evolutionary biologist, I am fascinated by the enormous diversity of plant forms and flower morphology. Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversfication. I combine bioinformatics, comparative genomics, phylogenomics, and developmental biology to investigate how underlying genetic networks and pathways have evolved under natural selection to produce diverse phenotypes. I am particularly interested in the evolution of floral form in the genus _Achimenes_ (Gesneriaceae), a colorful and diverse genus native to Mexico and Central America.
+As a botanist and evolutionary biologist, I am fascinated by the enormous diversity of plant forms and flower morphology. Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversfication. I combine bioinformatics, comparative genomics, phylogenetics, and developmental biology to investigate how underlying genetic networks and pathways have evolved to produce diverse phenotypes. I am particularly interested in the evolution of floral form in the genus _Achimenes_ (Gesneriaceae), a colorful and diverse genus native to Mexico and Central America.
 
 {% include button.html label="Details" link="/research" %}
 
 {% include section.html header="Publications" %}
-
-**Roberts W.R.**, Roalson E.H. In Prep. Gene co-expression network connectivity is an important determinant of selective constraint during flower development in the magic flowers (_Achimenes_).
-
-**Roberts W.R.**, Crabb J., Dhingra A., Roalson E.H. In Prep. Micropropagation and _Agrobacterium_-mediated genetic transformation of _Achimenes erecta_ (Gesneriaceae).
 
 **Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ 105(4): 726-740. [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088)
 
