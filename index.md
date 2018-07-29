@@ -16,11 +16,11 @@ As a botanist and evolutionary biologist, I am fascinated by the enormous divers
 
 {% include section.html header="Publications" %}
 
-**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ 105(4): 726-740. [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088)
+**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ 105(4): 726-740. [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088)[[pdf]](https://github.com/wrroberts/wrroberts.github.io/blob/master/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf)
 
-**Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ 18: 240. [[doi]](https://doi.org/10.1186/s12864-017-3623-8)
+**Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ 18: 240. [[doi]](https://doi.org/10.1186/s12864-017-3623-8) [[pdf]](https://github.com/wrroberts/wrroberts.github.io/blob/master/pdfs/Roberts_et_al_2017-BMC_Genomics.pdf)
 
-Roalson E.H., **Roberts W.R.** 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ 65(4): 662-684. [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138)
+Roalson E.H., **Roberts W.R.** 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ 65(4): 662-684. [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138) [[pdf]](https://github.com/wrroberts/wrroberts.github.io/blob/master/pdfs/Syst%20Biol-2016-Roalson-662-84.pdf)
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
