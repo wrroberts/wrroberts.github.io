@@ -4,7 +4,7 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am currently a postdoctoral fellow in the [Alverson Lab](https://alversonlab.com) in the [Department of Biological Sciences](https://fulbright.uark.edu/departments/biology/) at the University of Arkansas. I completed my PhD in Molecular Plant Sciences with Eric Roalson at Washington State University in the [School of Biological Sciences](https://sbs.wsu.edu) and received both a BS in Biology and a BA in Art from [Whitworth University](https://www.whitworth.edu).
+I am currently a postdoctoral fellow in the [Alverson Lab](https://alversonlab.com) in the [Department of Biological Sciences](https://fulbright.uark.edu/departments/biology/) at the University of Arkansas. I completed my PhD in Molecular Plant Sciences with Eric Roalson at Washington State University in the [School of Biological Sciences](https://sbs.wsu.edu).
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
