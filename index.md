@@ -4,7 +4,7 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I currently work in the [Roalson Lab](https://roalsonlab.weebly.com) at [Washington State University](https://wsu.edu) in the [School of Biological Sciences](https://sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](https://mps.wsu.edu). 
+I am currently a postdoctoral fellow in the [Alverson Lab](https://alversonlab.com) in the [Department of Biological Sciences](https://fulbright.uark.edu/departments/biology/) at the University of Arkansas. I completed my doctoral work with Eric Roalson at Washington State University in the [School of Biological Sciences](https://sbs.wsu.edu) and the [Molecular Plant Sciences Graduate Program](https://mps.wsu.edu). 
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
