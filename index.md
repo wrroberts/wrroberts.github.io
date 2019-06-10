@@ -16,6 +16,8 @@ As a botanist and evolutionary biologist, I am fascinated by biological diversit
 
 {% include section.html header="Publications" %}
 
+Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ (in press). [[doi]](https://doi.org/10.1111/jse.12519)
+
 **Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ 105(4): 726-740. [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088)[[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
 
 **Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ 18: 240. [[doi]](https://doi.org/10.1186/s12864-017-3623-8) [[pdf]](/pdfs/Roberts_et_al_2017-BMC_Genomics.pdf?raw=true)
