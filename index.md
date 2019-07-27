@@ -10,13 +10,13 @@ I am currently a postdoctoral fellow in the [Alverson Lab](https://alversonlab.c
 
 {% include section.html header="Research" %}
 
-As a botanist and evolutionary biologist, I am fascinated by biological diversity. Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversification. I combine bioinformatics, comparative genomics, phylogenetics, and developmental biology to investigate how genetic networks and pathways evolve to produce diverse phenotypes. For my doctoral work, I studied the genomics of floral diversification in the genus _Achimenes_ (Gesneriaceae) and worked to develop this group into a new model system for understanding flower evolution. My postdoctoral research will focus on phylogenomics of the diatom order Thalassiosirales, a model diatom lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
+As a botanist and evolutionary biologist, I am fascinated by biological diversity. Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversification. I combine bioinformatics, comparative genomics, phylogenetics, and developmental biology to investigate how genetic networks and pathways modify and evolve to produce diverse phenotypes. For my doctoral work, I studied the genomics of floral diversification in the genus _Achimenes_ (Gesneriaceae) and worked to develop this group into a new model system for understanding flower evolution. My postdoctoral research will focus on phylogenomics of the diatom order Thalassiosirales, a model diatom lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
 {% include button.html label="Details" link="/research" %}
 
 {% include section.html header="Publications" %}
 
-Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ (in press). [[doi]](https://doi.org/10.1111/jse.12519)
+Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ (in press). [[doi]](https://doi.org/10.1111/jse.12519)[[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
 
 **Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ 105(4): 726-740. [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088)[[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
 
