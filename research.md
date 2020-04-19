@@ -8,15 +8,16 @@ Using comparative genomics in an evolutionary-developmental context allows us to
 
 <img src="/images/flower-image.png" width="90%" heigh="90%" />
 
-I have taken multiple strategies to begin understanding flower diversification in _Achimenes_. First, comparing gene expression within and between species has revealed complex patterns in several pathways that correspond to the different floral forms ([Roberts and Roalson 2017](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3623-8)). Second, phylogenomic analyses of gene flow and introgression have found widespread phylogenetic discordance and specific cases of introgression occurring between sympatric species pairs that share pollinator groups ([Roberts and Roalson 2018](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1058)). Third, the examination of co-expression networks has found a strong association between gene connectivity and selective constraint (Roberts and Roalson, in Prep). 
+I have taken multiple strategies to begin understanding flower diversification in _Achimenes_. First, comparing gene expression within and between species has revealed complex patterns in several pathways that correspond to the different floral forms ([Roberts and Roalson 2017](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3623-8)). Second, phylogenomic analyses of gene flow and introgression have found widespread phylogenetic discordance and specific cases of introgression occurring between sympatric species pairs that share pollinator groups ([Roberts and Roalson 2018](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1058)). Third, the examination of co-expression networks has found a strong association between gene connectivity and selective constraint ([Roberts and Roalson 2020](https://doi.org/10.7717/peerj.8778)). 
 
-<img src="/images/Figure3.png" width="45%" height="45%"/> <img src="/images/Figure3-Degree-Eigen.png" width="45%" height="45%"/>
+<img src="/images/Figure3.png" width="45%" height="45%"/> <img src="/images/Figure7-omega-connectivity.png" width="45%" height="45%"/>
 
 {% include section.html header="Macroevolution of Gesneriaceae" %}
 
 Gesneriaceae (African violet family) represents a large lineage (>3500 species) with an enormous amount of diversity, particularly in floral form and growth form. The family is known for its diverse flowers that are visited by a number of different pollinators, as well as containing a high number of epiphytes, lithophytes, and unifoliate plants. Constructing the largest dated phylogeny for gesneriads (nearly a quarter of species) and inferring divergence times has allowed us to test hypotheses related to the effects of geography, floral traits, epiphytism, and growth form on diversification [(Roalson and Roberts 2016)](http://sysbio.oxfordjournals.org/content/65/4/662). Our analyses provide evidence for distinct patterns of evolution across different lineages in the Gesneriaceae. Floral form, pollination syndrome, and epiphytism appear to be important drivers of diversification in the New World subfamily Gesnerioideae, while growth form appears to be important in the Old World subfamily Didymocarpoideae.
 
-<img src="/images/ges-flowers.png" width="90%" height="90%"/>
+<img src="/images/ges-flowers.png" width="50%" height="50%"/> 
+<img src="/images/syndrome_fam.png" width="40%" height="40%"/>
 
 {% include section.html header="Developmental genetics in <em>Achimenes</em>" %}
 
