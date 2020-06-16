@@ -4,7 +4,9 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am currently a postdoctoral fellow in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I completed my PhD in Molecular Plant Sciences with Eric Roalson at Washington State University in the [School of Biological Sciences](https://sbs.wsu.edu).
+I am currently a postdoctoral fellow in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I completed my PhD in Molecular Plant Sciences with Eric Roalson at Washington State University in the School of Biological Sciences.
+
+Contact me: wader at uark (dot) edu
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
@@ -16,6 +18,8 @@ As a botanist and evolutionary biologist, I am fascinated by biological diversit
 
 {% include section.html header="Publications" %}
 
+{% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
+
 **Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_ 8: e8778. [[doi]](https://doi.org/10.7717/peerj.8778)[[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
 
 Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ 57(6): 561-578. [[doi]](https://doi.org/10.1111/jse.12519)[[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
@@ -25,8 +29,6 @@ Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification
 **Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ 18: 240. [[doi]](https://doi.org/10.1186/s12864-017-3623-8) [[pdf]](/pdfs/Roberts_et_al_2017-BMC_Genomics.pdf?raw=true)
 
 Roalson E.H., **Roberts W.R.** 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ 65(4): 662-684. [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138) [[pdf]](/pdfs/Syst%20Biol-2016-Roalson-662-84.pdf?raw=true)
-
-{% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
 {% include section.html header="Github" %}
 
