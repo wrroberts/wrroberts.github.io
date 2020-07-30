@@ -20,6 +20,8 @@ As a botanist and evolutionary biologist, I am fascinated by biological diversit
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
+**Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_. (In Press) [[doi]]( https://doi.org/10.1534/g3.120.401408)
+
 **Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_ 8: e8778. [[doi]](https://doi.org/10.7717/peerj.8778)[[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
 
 Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ 57(6): 561-578. [[doi]](https://doi.org/10.1111/jse.12519)[[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
