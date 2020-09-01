@@ -20,6 +20,8 @@ As a botanist and evolutionary biologist, I am fascinated by biological diversit
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
+Pendergrass A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2020. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. (Preprint) _bioRxiv_. [[doi]](https://doi.org/10.1101/2020.05.28.115543)
+
 **Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_. (In Press) [[doi]]( https://doi.org/10.1534/g3.120.401408)
 
 **Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_ 8: e8778. [[doi]](https://doi.org/10.7717/peerj.8778)[[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
