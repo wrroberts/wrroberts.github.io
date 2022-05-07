@@ -4,7 +4,7 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am currently a postdoctoral fellow in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I completed my PhD in Molecular Plant Sciences with Eric Roalson at Washington State University in the School of Biological Sciences.
+I am currently a Postdoctoral Fellow in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I previously completed my Ph.D. in Molecular Plant Sciences with Eric Roalson at Washington State University.
 
 Contact me: wader at uark (dot) edu
 
@@ -12,7 +12,9 @@ Contact me: wader at uark (dot) edu
 
 {% include section.html header="Research" %}
 
-As a botanist and evolutionary biologist, I am fascinated by biological diversity. Understanding diversification at the macro- and microevolutionary scales has long been a central goal of evolutionary biology. My research aims to understand the patterns and processes of diversification. I combine bioinformatics, comparative genomics, phylogenetics, and developmental biology to investigate how genetic networks and pathways modify and evolve to produce diverse phenotypes. For my doctoral work, I studied the genomics of floral diversification in the genus _Achimenes_ (Gesneriaceae) and worked to develop this group into a new model system for understanding flower evolution. My postdoctoral research will focus on phylogenomics of the diatom order Thalassiosirales, a model diatom lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
+I am fascinated by the diversity and complexity of life. My research focuses on the evolutionary processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring and understanding the interaction between phenotypic adaptation and genomic complexity. I have used both plant and diatom systems to explore these questions.
+
+For my doctoral work, I studied the transcriptomics of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My postdoctoral research focuses on the phylogenomics and evolutionary genomics of the centric diatom order Thalassiosirales, an emerging model diatom lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
 {% include button.html label="Details" link="/research" %}
 
