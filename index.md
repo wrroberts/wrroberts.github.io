@@ -12,7 +12,7 @@ Contact me: wader at uark (dot) edu
 
 {% include section.html header="Research" %}
 
-I am fascinated by the diversity and complexity of life. My research focuses on the evolutionary processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring and understanding the interaction between phenotypic adaptation and genomic complexity. I have used both plant and diatom systems to explore these questions.
+I am fascinated by the diversity and complexity of life. My research focuses on the evolutionary processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring and understanding the interaction between adaptation and genomic complexity. I have used both plant and diatom systems to explore these questions.
 
 For my doctoral work, I studied the transcriptomics of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My postdoctoral research focuses on the phylogenomics and evolutionary genomics of the centric diatom order Thalassiosirales, an emerging model diatom lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
