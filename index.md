@@ -22,7 +22,7 @@ For my doctoral work, I studied the transcriptomics of flower diversification in
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
-Çiftçi O, Alverson AJ, van Bodegom P, **Roberts WR**, Mertens A, van de Vijver B, Trobajo R, Mann D, Pirovano W, van Eijk I, Gravendeel B. Phylotranscriptomics reveals the reticulate evolutionary history of a widespread diatom species complex. _Journal of Phycology_. In Press. [[doi]](https://doi.org/10.1111/jpy.13281)
+Çiftçi O., Alverson A.J., van Bodegom P., **Roberts W.R.**, Mertens A., van de Vijver B., Trobajo R., Mann D., Pirovano W., van Eijk I., Gravendeel B. 2022. Phylotranscriptomics reveals the reticulate evolutionary history of a widespread diatom species complex. _Journal of Phycology_. In Press. [[doi]](https://doi.org/10.1111/jpy.13281)
 
 Onyshchenko A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2021. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. _New Phytologist_ 232:1750-1764. [[doi]](https://doi.org/10.1111/nph.17673)
 
