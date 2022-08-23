@@ -24,9 +24,9 @@ For my doctoral work, I studied the transcriptomics of flower diversification in
 
 **Roberts W.R.**, Ruck E.C., Downey K.M., Alverson A.J. Resolving marine-freshwater transitions by diatoms through a fog of gene tree discordance and hemiplasy. bioRxiv preprint. [[doi]](https://doi.org/10.1101/2022.08.12.503770)
 
-Çiftçi O., Alverson A.J., van Bodegom P., **Roberts W.R.**, Mertens A., van de Vijver B., Trobajo R., Mann D., Pirovano W., van Eijk I., Gravendeel B. 2022. Phylotranscriptomics reveals the reticulate evolutionary history of a widespread diatom species complex. _Journal of Phycology_. In Press. [[doi]](https://doi.org/10.1111/jpy.13281)
+Çiftçi O., Alverson A.J., van Bodegom P., **Roberts W.R.**, Mertens A., van de Vijver B., Trobajo R., Mann D., Pirovano W., van Eijk I., Gravendeel B. 2022. Phylotranscriptomics reveals the reticulate evolutionary history of a widespread diatom species complex. _Journal of Phycology_. In Press. [[doi]](https://doi.org/10.1111/jpy.13281)[[pdf]](/pdfs/Ciftci_et_al-2022-Journal_of_Phycology.pdf?raw=true)
 
-Onyshchenko A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2021. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. _New Phytologist_ 232:1750-1764. [[doi]](https://doi.org/10.1111/nph.17673)
+Onyshchenko A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2021. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. _New Phytologist_ 232:1750-1764. [[doi]](https://doi.org/10.1111/nph.17673)[[pdf]](/pdfs/Onyshchenko_et_al-2021-New_Phytologist.pdf?raw=true)
 
 Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria associated with the diatom _Cyclotella cryptica_ strain CCMP332. _Microbiology Resource Announcements_ 9:e01030-20. [[doi]](https://doi.org/10.1128/MRA.01030-20)[[pdf]](/pdfs/Gargas_et_al-2020-MRA.pdf?raw=true)
 
