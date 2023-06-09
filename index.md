@@ -10,6 +10,8 @@ Contact me: wade.r.roberts at gmail (dot) com
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
+{$ include button.html label="Resume" link="/pdfs/roberts_resume.pdf" %}
+
 {% include section.html header="Research" %}
 
 I am fascinated by the diversity and complexity of life. My research focuses on the evolutionary processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring and understanding the interaction between adaptation and genomic complexity. I have used both plant and diatom systems to explore these questions.
