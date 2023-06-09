@@ -10,7 +10,7 @@ Contact me: wade.r.roberts at gmail (dot) com
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
-{$ include button.html label="Resume" link="/pdfs/roberts_resume.pdf" %}
+{% include button.html label="Resume" link="/pdfs/roberts_resume.pdf" %}
 
 {% include section.html header="Research" %}
 
