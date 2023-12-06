@@ -34,7 +34,7 @@ Onyshchenko A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2021. The 
 
 Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria associated with the diatom _Cyclotella cryptica_ strain CCMP332. _Microbiology Resource Announcements_ [[doi]](https://doi.org/10.1128/MRA.01030-20)[[pdf]](/pdfs/Gargas_et_al-2020-MRA.pdf?raw=true)
 
-**Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ 10(9) [[doi]](https://doi.org/10.1534/g3.120.401408)[[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true) [[CoGe genome browser]](https://genomevolution.org/coge/GenomeInfo.pl?gid=57836)
+**Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408)[[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true) [[CoGe genome browser]](https://genomevolution.org/coge/GenomeInfo.pl?gid=57836)
 
 **Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_  [[doi]](https://doi.org/10.7717/peerj.8778)[[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
 
