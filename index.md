@@ -4,7 +4,7 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am currently a Postdoctoral Fellow in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I previously completed my Ph.D. in Molecular Plant Sciences with Eric Roalson at Washington State University.
+I am currently a researcher in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I previously completed my Ph.D. in Molecular Plant Sciences with Eric Roalson at Washington State University.
 
 Contact me: wade.r.roberts at gmail (dot) com
 
