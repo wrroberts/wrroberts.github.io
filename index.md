@@ -24,7 +24,7 @@ For my doctoral work, I studied the transcriptomics of flower diversification in
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
-**Roberts W.R.**, Siepielski A.M., Alverson A.J. 2024. Diatom abundance in the polar oceans is predicted by genome size. In Press. _PLoS Biology_
+**Roberts W.R.**, Siepielski A.M., Alverson A.J. 2024. Diatom abundance in the polar oceans is predicted by genome size. _PLoS Biology_ [[doi]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002733)
 
 Bryłka K., Pinseel E, **Roberts W.R.**, Ruck E.C., Conley D.J., Alverson A.J. 2023. Gene duplication, shifting selection, and dosage balance of silicon transporter proteins in marine and freshwater diatoms. _Genome Biology and Evolution_ [[doi]](https://doi.org/10.1093/gbe/evad212)[[pdf]](/pdfs/Brylka_et_al-2023-GBE.pdf?raw=true)
 
