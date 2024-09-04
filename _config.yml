@@ -7,11 +7,11 @@ permalink:        pretty
 
 # Setup
 title:            Wade R. Roberts
-tagline:          'Evolutionary Genomics'
-description:      'Postdoctoral Fellow'
+tagline:          'Evolutionary Genomics and Phylogenomics'
+#description:      'Postdoctoral Fellow'
 institution:      'University of Arkansas'
 url:              https://wrroberts.github.io
-copyright-year:   2022
+copyright-year:   2024
 
 theme-cfg:
   avatar:         /images/wade.jpg
