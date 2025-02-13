@@ -14,9 +14,9 @@ Contact me: wade.r.roberts at gmail (dot) com
 
 {% include section.html header="Research" %}
 
-I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions.
+I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions. Community engagement and outreach are important elements to my work, such as my participation in [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students and the public to diatom biodiversity.
 
-For my doctoral work, I explored patterns of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My current research focuses on the phylogenomics and evolutionary genomics of diatoms, while focusing on the centric diatom order Thalassiosirales as an emerging model lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
+For my doctoral work, I explored patterns of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My current research focuses on the phylogenomics and evolutionary genomics of diatoms, focusing on the centric diatom order Thalassiosirales as an emerging model lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
 {% include button.html label="Details" link="/research" %}
 
