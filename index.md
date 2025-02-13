@@ -14,7 +14,7 @@ Contact me: wade.r.roberts at gmail (dot) com
 
 {% include section.html header="Research" %}
 
-I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring the interactions between adaptation and genomic complexity. I have used both plant and diatom systems to explore these questions.
+I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions.
 
 For my doctoral work, I explored patterns of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My current research focuses on the phylogenomics and evolutionary genomics of diatoms, while focusing on the centric diatom order Thalassiosirales as an emerging model lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
