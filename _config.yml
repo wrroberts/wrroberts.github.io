@@ -11,7 +11,7 @@ tagline:          'Evolutionary genomics and phylogenomics'
 #description:      'Postdoctoral Fellow'
 institution:      'University of Arkansas'
 url:              https://wrroberts.github.io
-copyright-year:   2024
+copyright-year:   2025
 
 theme-cfg:
   avatar:         /images/wade.jpg
@@ -19,7 +19,7 @@ theme-cfg:
 
 author:
   name:           'Wade R. Roberts'
-  twitter:        https://twitter.com/wwaaaddddeee
+# twitter:        https://twitter.com/wwaaaddddeee
 # facebook:       https://twitter.com/wwaaaddddeee
 # instagram:      https://twitter.com/wwaaaddddeee
   github:         https://github.com/wrroberts
