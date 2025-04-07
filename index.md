@@ -28,6 +28,10 @@ For my doctoral work, I explored patterns of flower diversification in the genus
 
 **Roberts W.R.**, Siepielski A.M., Alverson A.J. 2024. Diatom abundance in the polar oceans is predicted by genome size. _PLoS Biology_ [[doi]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002733) [[pdf]](/pdfs/Roberts_et_al_2024-PLOS_Biology.pdf?raw=true) [[cover image]](https://journals.plos.org/plosbiology/article?id=10.1371/image.pbio.v22.i08)
 
+<p align="center">
+  <img src="/images/image.pbio.v22.i08.g001_2.jpg" width="200" align="right">
+</p>
+
 Bryłka K., Pinseel E, **Roberts W.R.**, Ruck E.C., Conley D.J., Alverson A.J. 2023. Gene duplication, shifting selection, and dosage balance of silicon transporter proteins in marine and freshwater diatoms. _Genome Biology and Evolution_ [[doi]](https://doi.org/10.1093/gbe/evad212) [[pdf]](/pdfs/Brylka_et_al-2023-GBE.pdf?raw=true)
 
 **Roberts W.R.**, Ruck E.C., Downey K.M., Pinseel E., Alverson A.J. 2023. Resolving marine-freshwater transitions by diatoms through a fog of gene tree discordance. _Systematic Biology_ [[doi]](https://doi.org/10.1093/sysbio/syad038) [[pdf]](/pdfs/Roberts_et_al-2023-Systematic_Biology.pdf?raw=true)
@@ -40,9 +44,17 @@ Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria 
 
 **Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408) [[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true) [[CoGe genome browser]](https://genomevolution.org/coge/GenomeInfo.pl?gid=57836)
 
+<p align="center">
+  <img src="/images/2018-American_Journal_of_Botany_2.jpg" width="200" align="left">
+</p>
+
 **Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_  [[doi]](https://doi.org/10.7717/peerj.8778) [[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
 
 Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ [[doi]](https://doi.org/10.1111/jse.12519) [[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
+
+<p align="center">
+  <img src="/images/syv103_2.jpg" width="200" align="right">
+</p>
 
 **Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088) [[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
 
