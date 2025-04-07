@@ -4,7 +4,7 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am currently a researcher in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I previously completed my Ph.D. in Molecular Plant Sciences with Eric Roalson at Washington State University.
+I am currently a researcher in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I previously completed my Ph.D. with Eric Roalson at Washington State University.
 
 Contact me: wade.r.roberts at gmail (dot) com
 
@@ -22,7 +22,7 @@ I am fascinated by the diversity and complexity of life. My research focuses on 
 
 For my doctoral work, I explored patterns of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My current research focuses on the phylogenomics and evolutionary genomics of diatoms, focusing on the centric diatom order Thalassiosirales as an emerging model lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
-{% include button.html label="Details" link="/research" %}
+{% include button.html label="More details" link="/research" %}
 
 {% include section.html header="Publications" %}
 
@@ -42,11 +42,11 @@ Bryłka K., Pinseel E, **Roberts W.R.**, Ruck E.C., Conley D.J., Alverson A.J. 2
 
 Çiftçi O., Alverson A.J., van Bodegom P., **Roberts W.R.**, Mertens A., van de Vijver B., Trobajo R., Mann D., Pirovano W., van Eijk I., Gravendeel B. 2022. Phylotranscriptomics reveals the reticulate evolutionary history of a widespread diatom species complex. _Journal of Phycology_ [[doi]](https://doi.org/10.1111/jpy.13281) [[pdf]](/pdfs/Ciftci_et_al-2022-Journal_of_Phycology.pdf?raw=true)
 
-Onyshchenko A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2021. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. _New Phytologist_ [[doi]](https://doi.org/10.1111/nph.17673) [[pdf]](/pdfs/Onyshchenko_et_al-2021-New_Phytologist.pdf?raw=true) [[CoGe genome browser]](https://genomevolution.org/coge/GenomeInfo.pl?gid=60130)
+Onyshchenko A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2021. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. _New Phytologist_ [[doi]](https://doi.org/10.1111/nph.17673) [[pdf]](/pdfs/Onyshchenko_et_al-2021-New_Phytologist.pdf?raw=true)
 
 Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria associated with the diatom _Cyclotella cryptica_ strain CCMP332. _Microbiology Resource Announcements_ [[doi]](https://doi.org/10.1128/MRA.01030-20) [[pdf]](/pdfs/Gargas_et_al-2020-MRA.pdf?raw=true)
 
-**Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408) [[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true) [[CoGe genome browser]](https://genomevolution.org/coge/GenomeInfo.pl?gid=57836)
+**Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408) [[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true)
 
 <p align="center">
   <img src="/images/2018-American_Journal_of_Botany_2.jpg" width="170" align="right">
