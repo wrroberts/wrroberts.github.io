@@ -52,11 +52,11 @@ Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria 
 
 Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ [[doi]](https://doi.org/10.1111/jse.12519) [[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
 
+**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088) [[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
+
 <p align="center">
   <img src="/images/syv103_2.jpg" width="200" align="right">
 </p>
-
-**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088) [[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
 
 **Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ [[doi]](https://doi.org/10.1186/s12864-017-3623-8) [[pdf]](/pdfs/Roberts_et_al_2017-BMC_Genomics.pdf?raw=true)
 
