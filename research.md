@@ -5,9 +5,9 @@ title: Research
 {% include section.html header="Evolutionary genomics in diatoms" %}
 
 Diatoms are one of the most species-rich and diverse lineages of microbial eukaryotes. The order Thalassiosirales represents an abundant and widespread lineage of centric diatoms that have made the transition from marine to freshwater habitats multiple times. To understand the genomic and genetic processes involved in the marine to freshwater transition and adaptation, I have sequenced complete genomes and transcriptomes from across the order. We will use these resources in multiple ways, including: 
-- the estimation of phylogenomic relationships and the number of marine-freshwater transitions ([Roberts et al. 2023](https://doi.org/10.1093/sysbio/syad038)), 
-- the evolution of genome size and its impacts on diatom ecology ([Roberts et al. 2024](https://doi.org/10.1371/journal.pbio.3002733)), 
-- the evolutionary dynamics of repetitive elements, and 
+- the estimation of phylogenomic relationships and the frequency of marine-freshwater transitions ([Roberts et al. 2023](https://doi.org/10.1093/sysbio/syad038)), 
+- the evolution of genome size and its impacts on diatom community ecology ([Roberts et al. 2024](https://doi.org/10.1371/journal.pbio.3002733)), 
+- the evolutionary dynamics of repetitive elements in the genome, and 
 - the impacts of genome duplication and gene family evolution on silica transport genes ([Bryłka et al. 2023](https://doi.org/10.1093/gbe/evad212)). 
 
 We have already released an updated version of the *Cyclotella cryptica* genome assembled using Oxford Nanopore long reads ([Roberts et al. 2020](https://doi.org/10.1534/g3.120.401408)) and will be releasing additional reference-quality Thalassiosirales genomes ([Roberts et al. 2025](https://doi.org/10.1111/jpy.13545)).
