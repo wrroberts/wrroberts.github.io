@@ -12,6 +12,10 @@ Contact me: wade.r.roberts at gmail (dot) com
 
 {% include button.html label="Resume" link="/pdfs/roberts_resume.pdf" %}
 
+<p align="center">
+  <img src="/images/mydiatoms-logo.jpg" width="300" align="right">
+</p>
+
 {% include section.html header="Research" %}
 
 I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions. Community engagement and outreach are important elements to my work, such as my participation in [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students and the public to diatom biodiversity.
@@ -45,7 +49,7 @@ Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria 
 **Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408) [[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true) [[CoGe genome browser]](https://genomevolution.org/coge/GenomeInfo.pl?gid=57836)
 
 <p align="center">
-  <img src="/images/2018-American_Journal_of_Botany_2.jpg" width="200" align="right">
+  <img src="/images/2018-American_Journal_of_Botany_2.jpg" width="170" align="right">
 </p>
 
 **Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_  [[doi]](https://doi.org/10.7717/peerj.8778) [[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
@@ -53,7 +57,7 @@ Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria 
 Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ [[doi]](https://doi.org/10.1111/jse.12519) [[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
 
 <p align="center">
-  <img src="/images/syv103_2.jpg" width="200" align="right">
+  <img src="/images/syv103_2.jpg" width="170" align="right">
 </p>
 
 **Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088) [[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
