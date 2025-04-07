@@ -45,7 +45,7 @@ Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria 
 **Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408) [[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true) [[CoGe genome browser]](https://genomevolution.org/coge/GenomeInfo.pl?gid=57836)
 
 <p align="center">
-  <img src="/images/2018-American_Journal_of_Botany_2.jpg" width="200" align="left">
+  <img src="/images/2018-American_Journal_of_Botany_2.jpg" width="200" align="right">
 </p>
 
 **Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_  [[doi]](https://doi.org/10.7717/peerj.8778) [[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
