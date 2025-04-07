@@ -22,11 +22,13 @@ I am fascinated by the diversity and complexity of life. My research focuses on 
 
 For my doctoral work, I explored patterns of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My current research focuses on the phylogenomics and evolutionary genomics of diatoms, focusing on the centric diatom order Thalassiosirales as an emerging model lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
-{% include button.html label="Details" link="/research" %}
+{% include button.html label="Research details" link="/research" %}
 
 {% include section.html header="Teaching" %}
 
-{% include buttom.html label="Details" link=/teaching" %}
+I have formal teaching experience for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours.
+
+{% include button.html label="Teaching details" link="/teaching" %}
 
 {% include section.html header="Publications" %}
 
