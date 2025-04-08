@@ -16,7 +16,7 @@ Average rating: 4.8 out of 5
 
 {% include section.html header="Introductory Biology: Organismal Biology (Biol 106)" %}
 
-For science majors and pre-professional students, covering the biology and plants, animals, ecology, and evolution.
+For science majors and pre-professional students, covering the biology of plants, animals, ecology, and evolution.
 
 Average rating: 4.7 out of 5
 
