@@ -28,9 +28,9 @@ For my doctoral work, I explored patterns of flower diversification in the genus
 
 {% include section.html header="Teaching" %}
 
-I have formal teaching experience from Washington State University for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework for college teaching.
+I have formal teaching experience from Washington State University for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework to improve my college teaching skills.
 
-I began my interest in education as an undergraduate teaching assistant and supplemental instructory at Whitworth Universrity for courses in _General Biology_, _Plant Biology_, and _Genetics_. I provided laboratory instruction, organized and led study sessions, and creating study guides and worksheets to aid student learning.
+I began my interest in education as an undergraduate teaching assistant and supplemental instructor at Whitworth Universrity for courses in _General Biology_, _Plant Biology_, and _Genetics_. I provided laboratory instruction, organized and led study sessions, and created study guides and worksheets to aid student learning.
 
 {% include button.html label="Teaching details" link="/teaching" %}
 
