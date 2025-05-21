@@ -38,43 +38,47 @@ I began my interest in education as an undergraduate teaching assistant and supp
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
-**Roberts W.R.**, Alverson A.J. 2025. Three reference genomes for diatom ecology and evolution. _Journal of Phycology_ [[doi]](https://doi.org/10.1111/jpy.13545) [[pdf]](/pdfs/Roberts_et_al-2025-Journal_of_Phycology.pdf?raw=true)
+Alverson AJ, **Roberts WR**, Ruck EC, Nakov T, Ashworth MP, Bryłka K, Downey KM, Kociolek JP, Parks M, Pinseel E, Theriot EC, Tye SP, Witkowski A, Beaulieu JM, Wickett NJ. 2025. Phylogenomics reveals the slow burning fuse of diatom evolution. _Proceedings of the National Academy of Sciences_. In Press.
+
+Pinseel E, Ruck EC, Nakov T, Jonsson P, Kourtchenko O, Kremp A, **Roberts WR**, Sjöqvist C, Töpel M, Godhe A, Hahn MW, Alverson AJ. 2025. Genome-wide adaptation to a complex environmental gradient in a keystone phytoplankton species. _Molecular Ecology_. In Press.
+
+**Roberts WR**, Alverson AJ. 2025. Three reference genomes for diatom ecology and evolution. _Journal of Phycology_ [[doi]](https://doi.org/10.1111/jpy.13545) [[pdf]](/pdfs/Roberts_et_al-2025-Journal_of_Phycology.pdf?raw=true)
 
 <p align="center">
   <img src="/images/image.pbio.v22.i08.g001_2.jpg" width="200" align="right">
 </p>
 
-**Roberts W.R.**, Siepielski A.M., Alverson A.J. 2024. Diatom abundance in the polar oceans is predicted by genome size. _PLoS Biology_ [[doi]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002733) [[pdf]](/pdfs/Roberts_et_al_2024-PLOS_Biology.pdf?raw=true) [[cover image]](https://journals.plos.org/plosbiology/article?id=10.1371/image.pbio.v22.i08)
+**Roberts WR**, Siepielski AM, Alverson AJ. 2024. Diatom abundance in the polar oceans is predicted by genome size. _PLoS Biology_ [[doi]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002733) [[pdf]](/pdfs/Roberts_et_al_2024-PLOS_Biology.pdf?raw=true) [[cover image]](https://journals.plos.org/plosbiology/article?id=10.1371/image.pbio.v22.i08)
 
-Bryłka K., Pinseel E, **Roberts W.R.**, Ruck E.C., Conley D.J., Alverson A.J. 2023. Gene duplication, shifting selection, and dosage balance of silicon transporter proteins in marine and freshwater diatoms. _Genome Biology and Evolution_ [[doi]](https://doi.org/10.1093/gbe/evad212) [[pdf]](/pdfs/Brylka_et_al-2023-GBE.pdf?raw=true)
+Bryłka K, Pinseel E, **Roberts WR**, Ruck EC, Conley DJ, Alverson AJ. 2023. Gene duplication, shifting selection, and dosage balance of silicon transporter proteins in marine and freshwater diatoms. _Genome Biology and Evolution_ [[doi]](https://doi.org/10.1093/gbe/evad212) [[pdf]](/pdfs/Brylka_et_al-2023-GBE.pdf?raw=true)
 
-**Roberts W.R.**, Ruck E.C., Downey K.M., Pinseel E., Alverson A.J. 2023. Resolving marine-freshwater transitions by diatoms through a fog of gene tree discordance. _Systematic Biology_ [[doi]](https://doi.org/10.1093/sysbio/syad038) [[pdf]](/pdfs/Roberts_et_al-2023-Systematic_Biology.pdf?raw=true)
+**Roberts WR**, Ruck EC, Downey KM, Pinseel E, Alverson AJ. 2023. Resolving marine-freshwater transitions by diatoms through a fog of gene tree discordance. _Systematic Biology_ [[doi]](https://doi.org/10.1093/sysbio/syad038) [[pdf]](/pdfs/Roberts_et_al-2023-Systematic_Biology.pdf?raw=true)
 
-Çiftçi O., Alverson A.J., van Bodegom P., **Roberts W.R.**, Mertens A., van de Vijver B., Trobajo R., Mann D., Pirovano W., van Eijk I., Gravendeel B. 2022. Phylotranscriptomics reveals the reticulate evolutionary history of a widespread diatom species complex. _Journal of Phycology_ [[doi]](https://doi.org/10.1111/jpy.13281) [[pdf]](/pdfs/Ciftci_et_al-2022-Journal_of_Phycology.pdf?raw=true)
+Çiftçi O, Alverson AJ, van Bodegom P, **Roberts WR**, Mertens A, van de Vijver B, Trobajo R, Mann D, Pirovano W, van Eijk I, Gravendeel B. 2022. Phylotranscriptomics reveals the reticulate evolutionary history of a widespread diatom species complex. _Journal of Phycology_ [[doi]](https://doi.org/10.1111/jpy.13281) [[pdf]](/pdfs/Ciftci_et_al-2022-Journal_of_Phycology.pdf?raw=true)
 
-Onyshchenko A, **Roberts W.R.**, Ruck E.C., Lewis J.A., Alverson A.J. 2021. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. _New Phytologist_ [[doi]](https://doi.org/10.1111/nph.17673) [[pdf]](/pdfs/Onyshchenko_et_al-2021-New_Phytologist.pdf?raw=true)
+Onyshchenko A, **Roberts WR**, Ruck EC, Lewis JA, Alverson AJ. 2021. The genome of a nonphotosynthetic diatom provides insights into the metabolic shift to heterotrophy and constraints on the loss of photosynthesis. _New Phytologist_ [[doi]](https://doi.org/10.1111/nph.17673) [[pdf]](/pdfs/Onyshchenko_et_al-2021-New_Phytologist.pdf?raw=true)
 
-Gargas C.B., **Roberts W.R.**, Alverson A.J. 2020. Genome sequences of bacteria associated with the diatom _Cyclotella cryptica_ strain CCMP332. _Microbiology Resource Announcements_ [[doi]](https://doi.org/10.1128/MRA.01030-20) [[pdf]](/pdfs/Gargas_et_al-2020-MRA.pdf?raw=true)
+Gargas CB, **Roberts WR**, Alverson AJ. 2020. Genome sequences of bacteria associated with the diatom _Cyclotella cryptica_ strain CCMP332. _Microbiology Resource Announcements_ [[doi]](https://doi.org/10.1128/MRA.01030-20) [[pdf]](/pdfs/Gargas_et_al-2020-MRA.pdf?raw=true)
 
-**Roberts W.R.**, Downey K.M., Ruck E.C., Traller J.C., Alverson A.J. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408) [[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true)
+**Roberts WR**, Downey KM, Ruck EC, Traller JC, Alverson AJ. 2020. Improved reference genome for _Cyclotella cryptica_ CCMP332, a model for cell wall morphogenesis, salinity adaptation, and lipid production in diatoms (Bacillariophyta). _G3: Genes, Genomes, Genetics_ [[doi]](https://doi.org/10.1534/g3.120.401408) [[pdf]](/pdfs/Roberts_et_al-2020-G3.pdf?raw=true)
 
 <p align="center">
   <img src="/images/2018-American_Journal_of_Botany_2.jpg" width="170" align="right">
 </p>
 
-**Roberts W.R.**, Roalson E.H. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_  [[doi]](https://doi.org/10.7717/peerj.8778) [[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
+**Roberts WR**, Roalson EH. 2020. Co-expression clustering across flower development identifies modules for diverse floral forms in _Achimenes_ (Gesneriaceaea). _PeerJ_  [[doi]](https://doi.org/10.7717/peerj.8778) [[pdf]](/pdfs/Roberts_et_al_2020-PeerJ.pdf?raw=true)
 
-Kleinkopf J.A., **Roberts W.R.**, Wagner W.L, Roalson E.H. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ [[doi]](https://doi.org/10.1111/jse.12519) [[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
+Kleinkopf JA, **Roberts WR**, Wagner WL, Roalson EH. 2019. Diversification of Hawaiian _Cyrtandra_ (Gesneriaceae) under the influence of incomplete lineage sorting and hybridization. _Journal of Systematics and Evolution_ [[doi]](https://doi.org/10.1111/jse.12519) [[pdf]](/pdfs/Kleinkopf_et_al-2019-Journal_of_Systematics_and_Evolution.pdf?raw=true)
 
 <p align="center">
   <img src="/images/syv103_2.jpg" width="170" align="right">
 </p>
 
-**Roberts W.R.**, Roalson E.H. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088) [[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
+**Roberts WR**, Roalson EH. 2018. Phylogenomic analyses reveal extensive gene flow within the magic flowers (_Achimenes_). _American Journal of Botany_ [[doi]](https://doi.org/10.1002/ajb2.1058) [[cover image]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1088) [[pdf]](/pdfs/Roberts_et_al-2017-American_Journal_of_Botany.pdf?raw=true)
 
-**Roberts W.R.**, Roalson E.H. 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ [[doi]](https://doi.org/10.1186/s12864-017-3623-8) [[pdf]](/pdfs/Roberts_et_al_2017-BMC_Genomics.pdf?raw=true)
+**Roberts WR**, Roalson EH 2017. Comparative transcriptome analyses of flower development in four species of _Achimenes_ (Gesneriaceae). _BMC Genomics_ [[doi]](https://doi.org/10.1186/s12864-017-3623-8) [[pdf]](/pdfs/Roberts_et_al_2017-BMC_Genomics.pdf?raw=true)
 
-Roalson E.H., **Roberts W.R.** 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138) [[pdf]](/pdfs/Syst%20Biol-2016-Roalson-662-84.pdf?raw=true)
+Roalson EH, **Roberts WR**. 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138) [[pdf]](/pdfs/Syst%20Biol-2016-Roalson-662-84.pdf?raw=true)
 
 {% include section.html header="Github" %}
 
