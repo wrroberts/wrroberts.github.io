@@ -38,7 +38,7 @@ I began my interest in education as an undergraduate teaching assistant and supp
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
-Pinseel E, Ruck EC, Nakov T, Jonsson P, Kourtchenko O, Kremp A, **Roberts WR**, Sjöqvist C, Töpel M, Godhe A, Hahn MW, Alverson AJ. 2025. Genome-wide adaptation to a complex environmental gradient in a keystone phytoplankton species. _Molecular Ecology_. In Press.
+Pinseel E, Ruck EC, Nakov T, Jonsson P, Kourtchenko O, Kremp A, **Roberts WR**, Sjöqvist C, Töpel M, Godhe A, Hahn MW, Alverson AJ. 2025. Genome-wide adaptation to a complex environmental gradient in a keystone phytoplankton species. _Molecular Ecology_. In Press. [[doi]](https://doi.org/10.1111/mec.17817) [[pdf]](/pdfs/Pinseel_et_al-2025-Mol_Ecol.pdf?raw=true)
 
 Alverson AJ, **Roberts WR**, Ruck EC, Nakov T, Ashworth MP, Bryłka K, Downey KM, Kociolek JP, Parks M, Pinseel E, Theriot EC, Tye SP, Witkowski A, Beaulieu JM, Wickett NJ. 2025. Phylogenomics reveals the slow burning fuse of diatom evolution. _Proceedings of the National Academy of Sciences_. [[doi]](https://doi.org/10.1073/pnas.2500153122) [[pdf]](/pdfs/Alverson_et_al-2025-PNAS.pdf?raw=true)
 
