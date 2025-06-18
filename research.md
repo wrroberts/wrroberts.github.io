@@ -2,21 +2,21 @@
 layout: page
 title: Research
 ---
-{% include section.html header="Evolutionary genomics in diatoms" %}
+{% include section.html header="Evolutionary and ecological genomics in diatoms" %}
 
 Diatoms are one of the most species-rich and diverse lineages of microbial eukaryotes. The order Thalassiosirales represents an abundant and widespread lineage of centric diatoms that have made the transition from marine to freshwater habitats multiple times. To understand the genomic and genetic processes involved in the marine to freshwater transition and adaptation, I have sequenced complete genomes and transcriptomes from across the order. We will use these resources in multiple ways, including: 
 - the estimation of phylogenomic relationships and the frequency of marine-freshwater transitions ([Roberts et al. 2023](https://doi.org/10.1093/sysbio/syad038)), 
 - the evolution of genome size and its impacts on diatom community ecology ([Roberts et al. 2024](https://doi.org/10.1371/journal.pbio.3002733)), 
 - the evolutionary dynamics of repetitive elements in the genome, and 
-- the impacts of genome duplication and gene family evolution on silica transport genes ([Bryłka et al. 2023](https://doi.org/10.1093/gbe/evad212)). 
+- the impacts of genome duplication and gene family evolution ([Bryłka et al. 2023](https://doi.org/10.1093/gbe/evad212)). 
 
-We have already released an updated version of the *Cyclotella cryptica* genome assembled using Oxford Nanopore long reads ([Roberts et al. 2020](https://doi.org/10.1534/g3.120.401408)) and will be releasing additional reference-quality Thalassiosirales genomes ([Roberts et al. 2025](https://doi.org/10.1111/jpy.13545)).
+We have already released an updated version of the *Cyclotella cryptica* genome assembled using Oxford Nanopore long reads ([Roberts et al. 2020](https://doi.org/10.1534/g3.120.401408)) and will be releasing additional reference-quality genomes ([Roberts et al. 2025](https://doi.org/10.1111/jpy.13545)).
 
 Other ongoing collaborative projects are investigating several evolutionary and ecological questions, including:
 - the species delimitation of a cosmopolitan marine diatom using both genome resequencing and global metabarcoding datasets, 
-- the assembly of over 60 new chloroplast and mitochondrial genomes from the Thalassiosirales to explore evolutionary dynamics in these organelles,
+- the analysis of over 60 new chloroplast and mitochondrial genomes from the Thalassiosirales to explore evolutionary dynamics in these organelles,
 - the evolution of gene expression in a set of freshwater generalist and specialist diatoms to identify genetic pathways important for freshwater adaptation, and
-- [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students, naturalists, and the public to diatoms and help us document biodiversity across all aquatic habitats.
+- [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students, naturalists, and the public to diatoms and help us document diatom biodiversity across aquatic habitats in the United States.
 
 While diatoms are predominantly photosynthetic, there are examples of species where photosynthesis has been lost. We sequenced and annotated the first genome of a nonphotosynthetic diatom (*Nitzschia* sp. Nitz4; [Onyshchenko et al. 2021](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17673)). We found the loss of photosynthesis-related genes, evidence for the remodeling of mitochondrial glycolysis to maximize ATP yield, and evidence for the presence of a β-ketoadipate pathway. 
 
