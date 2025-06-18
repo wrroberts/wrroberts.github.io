@@ -10,8 +10,6 @@ Contact me: wade.r.roberts at gmail (dot) com
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
-{% include button.html label="Resume" link="/pdfs/roberts_resume.pdf" %}
-
 {% include section.html header="Research" %}
 
 I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions. Community engagement and outreach are important elements to my work, such as my participation in [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students and the public to diatom biodiversity.
