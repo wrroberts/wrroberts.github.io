@@ -82,4 +82,4 @@ Kleinkopf JA, **Roberts WR**, Wagner WL, Roalson EH. 2019. Diversification of Ha
 
 Roalson EH, **Roberts WR**. 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138) [[pdf]](/pdfs/Syst%20Biol-2016-Roalson-662-84.pdf?raw=true)
 
-
+_All photos may be used for educational purposes with proper attribution. All articles are available on request. All code is on GitHub. No content may be used for AI._
