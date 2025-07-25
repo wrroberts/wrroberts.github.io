@@ -16,11 +16,11 @@ Contact me: wade.r.roberts at gmail (dot) com
 
 {% include section.html header="Research" %}
 
-I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity. I use genomic, transcriptomic, phylogenomic, field, and experimental approaches. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions. Community engagement and outreach are important elements to my work, such as my participation in [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students and the public to diatom biodiversity.
+I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity. I use genomic, phylogenetic, field, and experimental approaches, often in a comparative framework. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions. Community engagement and outreach are important elements to my work, such as my participation in [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students and the public to diatom biodiversity.
 
 <p align="center">
   <a href="https://mydiatoms.org">
-    <img src="/images/mydiatoms-logo.jpg" width="300" align="right">
+    <img src="/images/mydiatoms-logo.jpg" width="400" align="right">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Previously, I explored the genetics of flower diversification in the genus _Achi
 
 {% include section.html header="Teaching" %}
 
-I have formal teaching experience from Washington State University for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework to improve my college teaching skills. My goal as an instructor is to foster intellectual growth, curiosity, and creative thinking in my students.
+I have formal teaching experience from Washington State University for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework to improve my college teaching skills. My goals as an instructor are to foster intellectual growth, curiosity, and creative thinking in my students.
 
 I began my interest in education as an undergraduate teaching assistant and supplemental instructor at Whitworth Universrity for courses in _General Biology_, _Plant Biology_, and _Genetics_. I provided laboratory instruction, organized and led study sessions, and created study guides and worksheets to aid student learning.
 
