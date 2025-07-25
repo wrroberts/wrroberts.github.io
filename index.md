@@ -4,15 +4,19 @@ title: Wade R. Roberts
 ---
 {% include section.html %}
 
-I am currently a researcher in the [Alverson Lab](https://alversonlab.com) in the Department of Biological Sciences at the University of Arkansas. I previously completed my Ph.D. with Eric Roalson at Washington State University.
+Hello, World! My name is Wade. I am a biologist, botanist, and artist. I research the ecology and evolution of diatoms and plants.
 
 Contact me: wade.r.roberts at gmail (dot) com
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
 
+{% include section.html header="Github" %}
+
+{% include button.html label="wrroberts" link=site.author.github icon="fa-github" %}
+
 {% include section.html header="Research" %}
 
-I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity and uses a combination of phylogenomics and comparative genomics. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions. Community engagement and outreach are important elements to my work, such as my participation in [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students and the public to diatom biodiversity.
+I am fascinated by the diversity and complexity of life. My research focuses on understanding the evolutionary and ecological processes that give rise to species diversity. I use genomic, transcriptomic, phylogenomic, field, and experimental approaches. My primary interest lies in exploring the interactions between ecological adaptations and genomic complexity. I have used both plant and diatom systems to explore these questions. Community engagement and outreach are important elements to my work, such as my participation in [myDiatoms](https://www.mydiatoms.org/), a citizen science project that aims to introduce students and the public to diatom biodiversity.
 
 <p align="center">
   <a href="https://mydiatoms.org">
@@ -20,13 +24,13 @@ I am fascinated by the diversity and complexity of life. My research focuses on 
   </a>
 </p>
 
-For my doctoral work, I explored patterns of flower diversification in the genus _Achimenes_ (Gesneriaceae), using both phylogenomics and comparative gene expression analyses. My current research focuses on the phylogenomics and evolutionary genomics of diatoms, focusing on the centric diatom order Thalassiosirales as an emerging model lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
+Previously, I explored the genetics of flower diversification in the genus _Achimenes_ (Gesneriaceae). My current research focuses on ecological and evolutionary genomics of diatoms, focusing on the centric diatom order Thalassiosirales as an emerging model lineage that spans the marine-freshwater salinity gradient and exhibits substantial genome size variation.
 
 {% include button.html label="Research details" link="/research" %}
 
 {% include section.html header="Teaching" %}
 
-I have formal teaching experience from Washington State University for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework to improve my college teaching skills.
+I have formal teaching experience from Washington State University for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework to improve my college teaching skills. My goal as an instructor is to foster intellectual growth, curiosity, and creative thinking in my students.
 
 I began my interest in education as an undergraduate teaching assistant and supplemental instructor at Whitworth Universrity for courses in _General Biology_, _Plant Biology_, and _Genetics_. I provided laboratory instruction, organized and led study sessions, and created study guides and worksheets to aid student learning.
 
@@ -38,7 +42,7 @@ I began my interest in education as an undergraduate teaching assistant and supp
 
 Pinseel E, Ruck EC, Nakov T, Jonsson P, Kourtchenko O, Kremp A, **Roberts WR**, Sjöqvist C, Töpel M, Godhe A, Hahn MW, Alverson AJ. 2025. Genome-wide adaptation to a complex environmental gradient in a keystone phytoplankton species. _Molecular Ecology_. [[doi]](https://doi.org/10.1111/mec.17817) [[pdf]](/pdfs/Pinseel_et_al-2025-Mol_Ecol.pdf?raw=true)
 
-Alverson AJ, **Roberts WR**, Ruck EC, Nakov T, Ashworth MP, Bryłka K, Downey KM, Kociolek JP, Parks M, Pinseel E, Theriot EC, Tye SP, Witkowski A, Beaulieu JM, Wickett NJ. 2025. Phylogenomics reveals the slow burning fuse of diatom evolution. _Proceedings of the National Academy of Sciences_. [[doi]](https://doi.org/10.1073/pnas.2500153122) [[pdf]](/pdfs/Alverson_et_al-2025-PNAS.pdf?raw=true)
+Alverson AJ, **Roberts WR**, Ruck EC, Nakov T, Ashworth MP, Bryłka K, Downey KM, Kociolek JP, Parks M, Pinseel E, Theriot EC, Tye SP, Witkowski A, Beaulieu JM, Wickett NJ. 2025. Phylogenomics reveals the slow burning fuse of diatom evolution. _Proceedings of the National Academy of Sciences_. [[doi]](https://doi.org/10.1073/pnas.2500153122) [[pdf]](/pdfs/Alverson_et_al-2025-PNAS.pdf?raw=true) [[press]](https://news.uark.edu/articles/78610/study-resolves-diatom-tree-of-life-could-offer-clues-to-earth-s-puzzle)
 
 **Roberts WR**, Alverson AJ. 2025. Three reference genomes for diatom ecology and evolution. _Journal of Phycology_ [[doi]](https://doi.org/10.1111/jpy.13545) [[pdf]](/pdfs/Roberts_et_al-2025-Journal_of_Phycology.pdf?raw=true)
 
@@ -46,7 +50,7 @@ Alverson AJ, **Roberts WR**, Ruck EC, Nakov T, Ashworth MP, Bryłka K, Downey KM
   <img src="/images/image.pbio.v22.i08.g001_2.jpg" width="200" align="right">
 </p>
 
-**Roberts WR**, Siepielski AM, Alverson AJ. 2024. Diatom abundance in the polar oceans is predicted by genome size. _PLoS Biology_ [[doi]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002733) [[pdf]](/pdfs/Roberts_et_al_2024-PLOS_Biology.pdf?raw=true) [[cover image]](https://journals.plos.org/plosbiology/article?id=10.1371/image.pbio.v22.i08)
+**Roberts WR**, Siepielski AM, Alverson AJ. 2024. Diatom abundance in the polar oceans is predicted by genome size. _PLoS Biology_ [[doi]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002733) [[pdf]](/pdfs/Roberts_et_al_2024-PLOS_Biology.pdf?raw=true) [[cover image]](https://journals.plos.org/plosbiology/article?id=10.1371/image.pbio.v22.i08) [[press]](https://news.uark.edu/articles/70899/researchers-make-breakthrough-in-understanding-species-abundance)
 
 Bryłka K, Pinseel E, **Roberts WR**, Ruck EC, Conley DJ, Alverson AJ. 2023. Gene duplication, shifting selection, and dosage balance of silicon transporter proteins in marine and freshwater diatoms. _Genome Biology and Evolution_ [[doi]](https://doi.org/10.1093/gbe/evad212) [[pdf]](/pdfs/Brylka_et_al-2023-GBE.pdf?raw=true)
 
@@ -78,6 +82,4 @@ Kleinkopf JA, **Roberts WR**, Wagner WL, Roalson EH. 2019. Diversification of Ha
 
 Roalson EH, **Roberts WR**. 2016. Distinct processes drive diversification in different clades of Gesneriaceae. _Systematic Biology_ [[doi]](https://doi.org/10.1093/sysbio/syw012) [[cover image]](https://academic.oup.com/sysbio/article/65/4/i1/1753138) [[pdf]](/pdfs/Syst%20Biol-2016-Roalson-662-84.pdf?raw=true)
 
-{% include section.html header="Github" %}
 
-{% include button.html label="wrroberts" link=site.author.github icon="fa-github" %}
