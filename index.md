@@ -20,7 +20,7 @@ I am fascinated by the diversity and complexity of life. My research focuses on 
 
 <p align="center">
   <a href="https://mydiatoms.org">
-    <img src="/images/mydiatoms-logo.jpg" width="400" align="right">
+    <img src="/images/mydiatoms-logo.jpg" width="500" align="right">
   </a>
 </p>
 
