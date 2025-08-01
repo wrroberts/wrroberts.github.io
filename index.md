@@ -30,7 +30,7 @@ Previously, I explored the genetics of flower diversification in the genus _Achi
 
 {% include section.html header="Teaching" %}
 
-I have formal teaching experience from Washington State University for courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and course design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework to improve my college teaching skills. My goals as an instructor are to foster intellectual growth, curiosity, and creative thinking in my students.
+I have formal teaching experience from Washington State University for laboratory courses in _Introductory Biology_, _Introductory Botany_, and _Systematic Botany_. My responsibilities included laboratory instruction and lecturing, curriculum development and syllabus design, laboratory prep, writing quizzes and exams, performing course assessments, and providing office hours. I also pursued professional development opportunities and coursework to improve my college teaching skills. My goals as an instructor are to foster intellectual growth, curiosity about the natural world, and creative thinking in my students.
 
 I began my interest in education as an undergraduate teaching assistant and supplemental instructor at Whitworth Universrity for courses in _General Biology_, _Plant Biology_, and _Genetics_. I provided laboratory instruction, organized and led study sessions, and created study guides and worksheets to aid student learning.
 
