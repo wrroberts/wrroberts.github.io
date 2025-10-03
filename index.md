@@ -40,6 +40,8 @@ I began my interest in education as an undergraduate teaching assistant and supp
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
+**Roberts WR**, Parks M, Ashner M, Ashworth MP, Denne N, Ruck EC, Spiliotopoulos E, Wang A, Amin S, Schaack S, Wickett NJ, Alverson AJ. 2025. Reference genome for the benthic marine diatom _Psammoneis japonica_: bacterial associations and repeat-driven genome size evolution in diatoms. **_Journal of Phycology_**. Accepted.
+
 Pinseel E, Ruck EC, Nakov T, Jonsson P, Kourtchenko O, Kremp A, **Roberts WR**, Sjöqvist C, Töpel M, Godhe A, Hahn MW, Alverson AJ. 2025. Genome-wide adaptation to a complex environmental gradient in a keystone phytoplankton species. **_Molecular Ecology_**. [[doi]](https://doi.org/10.1111/mec.17817) [[pdf]](/pdfs/Pinseel_et_al-2025-Mol_Ecol.pdf?raw=true)
 
 Alverson AJ, **Roberts WR**, Ruck EC, Nakov T, Ashworth MP, Bryłka K, Downey KM, Kociolek JP, Parks M, Pinseel E, Theriot EC, Tye SP, Witkowski A, Beaulieu JM, Wickett NJ. 2025. Phylogenomics reveals the slow burning fuse of diatom evolution. **_Proceedings of the National Academy of Sciences_**. [[doi]](https://doi.org/10.1073/pnas.2500153122) [[pdf]](/pdfs/Alverson_et_al-2025-PNAS.pdf?raw=true) [[press]](https://news.uark.edu/articles/78610/study-resolves-diatom-tree-of-life-could-offer-clues-to-earth-s-puzzle) [[commentary]](https://doi.org/10.1073/pnas.2511509122)
