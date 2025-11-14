@@ -40,7 +40,7 @@ I began my interest in education as an undergraduate teaching assistant and supp
 
 {% include button.html label="On Google Scholar" link=site.author.scholar icon="fa-graduation-cap" %}
 
-**Roberts WR**, Parks M, Ashner M, Ashworth MP, Denne N, Ruck EC, Spiliotopoulos E, Wang A, Amin S, Schaack S, Wickett NJ, Alverson AJ. 2025. Reference genome for the benthic marine diatom _Psammoneis japonica_: bacterial associations and repeat-driven genome size evolution in diatoms. **_Journal of Phycology_**. Accepted.
+**Roberts WR**, Parks M, Ashner M, Ashworth MP, Denne N, Ruck EC, Spiliotopoulos E, Wang A, Amin S, Schaack S, Wickett NJ, Alverson AJ. 2025. Reference genome for the benthic marine diatom _Psammoneis japonica_: bacterial associations and repeat-driven genome size evolution in diatoms. **_Journal of Phycology_**. [[doi]](https://doi.org/10.1111/jpy.70101) [[pdf]](/pdfs/Roberts_et_al-2025b-Journal_of_Phycology.pdf?raw=true)
 
 Pinseel E, Ruck EC, Nakov T, Jonsson P, Kourtchenko O, Kremp A, **Roberts WR**, Sjöqvist C, Töpel M, Godhe A, Hahn MW, Alverson AJ. 2025. Genome-wide adaptation to a complex environmental gradient in a keystone phytoplankton species. **_Molecular Ecology_**. [[doi]](https://doi.org/10.1111/mec.17817) [[pdf]](/pdfs/Pinseel_et_al-2025-Mol_Ecol.pdf?raw=true)
 
