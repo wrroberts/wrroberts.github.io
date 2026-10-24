@@ -6,6 +6,8 @@ title: Wade R. Roberts
 
 Hello, World! My name is Wade. I am a biologist, botanist, and artist. I research the ecology and evolution of diatoms and plants.
 
+I am currently an Assistant Professor of Botany at the [University of Montana Western](https://www.umwestern.edu/).
+
 Contact me: wade.r.roberts at gmail (dot) com
 
 {% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
