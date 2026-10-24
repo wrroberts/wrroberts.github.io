@@ -10,7 +10,7 @@ I am currently an Assistant Professor of Botany at the [University of Montana We
 
 Contact me: wade.r.roberts at gmail (dot) com
 
-{% include button.html label="CV" link="/pdfs/roberts-cv.pdf" %}
+{% include button.html label="CV" link="/pdfs/roberts-cv.docx" %}
 
 {% include section.html header="Github" %}
 
